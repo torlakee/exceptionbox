@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Projects2k23\\exception-box\\csharp\\ExceptionBox\\ExceptionBoxWPF\\ExceptionBoxWPF.csproj",
+      "projectUniqueName": "E:\\Projects\\Projects2k23\\exception-box\\rep\\csharp\\ExceptionBoxWPF\\ExceptionBoxWPF.csproj",
       "projectName": "ExceptionBoxWPF",
-      "projectPath": "E:\\Projects\\Projects2k23\\exception-box\\csharp\\ExceptionBox\\ExceptionBoxWPF\\ExceptionBoxWPF.csproj",
+      "projectPath": "E:\\Projects\\Projects2k23\\exception-box\\rep\\csharp\\ExceptionBoxWPF\\ExceptionBoxWPF.csproj",
       "packagesPath": "C:\\Users\\nivanov\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Projects2k23\\exception-box\\csharp\\ExceptionBox\\ExceptionBoxWPF\\obj\\",
+      "outputPath": "E:\\Projects\\Projects2k23\\exception-box\\rep\\csharp\\ExceptionBoxWPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
